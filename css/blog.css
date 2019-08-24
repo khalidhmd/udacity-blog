@@ -1,0 +1,16 @@
+
+
+
+
+
+
+
+@media (max-width: 670px) {
+.blog-container {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto
+}
+
+
+}
